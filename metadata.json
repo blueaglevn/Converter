@@ -1,0 +1,6 @@
+{
+  "name": "File Converter",
+  "description": "Chuyển đổi định dạng video, âm thanh và hình ảnh hoàn toàn phía Client-side bằng FFmpeg.wasm, bảo mật, nhanh chóng và không giới hạn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
